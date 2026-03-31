@@ -8,7 +8,7 @@
 
 ![Player Career Analysis](Screenshot%202026-03-31%20192813.png)
 
-![Player Comparison Analysis]()
+![Player Comparison Analysis](Screenshot%202026-03-31%20192846.png)
 
 ---
 
