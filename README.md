@@ -4,7 +4,7 @@
 
 ![School Analysis](Screenshot%202026-03-31%20192636.png)
 
-![Player Career Analysis](screenshots/career_progression.png)
+![Salary Analysis](Screenshot%202026-03-31%20192723.png)
 
 ![SQL Query Example](screenshots/schools_output.png)
 
