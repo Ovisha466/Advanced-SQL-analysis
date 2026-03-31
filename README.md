@@ -2,7 +2,7 @@
 
 ## 📸 Project Preview
 
-![Salary Analysis](screenshots/salary_trends.png)
+![School Analysis](Screenshot 2026-03-31 192636.png)
 
 ![Player Career Analysis](screenshots/career_progression.png)
 
