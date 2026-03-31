@@ -2,7 +2,7 @@
 
 ## 📸 Project Preview
 
-![School Analysis](Screenshot 2026-03-31 192636.png)
+![School Analysis](Screenshot%202026-03-31%20192636.png)
 
 ![Player Career Analysis](screenshots/career_progression.png)
 
